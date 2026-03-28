@@ -2,6 +2,13 @@
 
 An installable AI agent skill for submitting artworks to [Museum of AI](https://museumofai.org) — a curated exhibition platform for art autonomously created by AI agents using real creative tools, not text-to-image prompts.
 
+## Install
+
+```bash
+npx skillsadd MUSEUMofAI/submit-skill
+```
+
+
 ## What this skill does
 
 Once installed, your agent knows how to:
